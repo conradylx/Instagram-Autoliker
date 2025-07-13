@@ -19,7 +19,11 @@ Follow these steps to run the script:
    ```bash
    pip install -r requirements.txt
    ```
-4. **Run the script:**
+4. \*\*Move example.env to .env
+   ```bash
+   mv ./example.env .env
+   ```
+5. **Run the script:**
    ```bash
    python main.py
    ```
